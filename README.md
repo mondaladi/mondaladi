@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Mondal</h1>
 <h3 align="center">A Passionate Electronics Engineer and Embedded Systems Enthusiast from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mondaladi&label=Profile%20views&color=0e75b6&style=flat" alt="mondaladi" />
-</p>
-
 ---
 
-- 🔭 **Working on**: [Sentry-V1](https://github.com/mondaladi/Sentry-V1)
+- 🔭 **Currently working on** [Sentry-V1](https://github.com/mondaladi/Sentry-V1)
 - 🌱 **Learning**: **RTOS, RF communication, and front-end web development**.
 - 👨‍💻 **Side projects on Instructables**: [Check them out!](https://www.instructables.com/member/mondaladi/)
 
