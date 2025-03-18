@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 **Currently working on** [Sentry-V1](https://github.com/mondaladi/Sentry-V1)
+- 🚗 **Currently working on** [Sentry-V1](https://github.com/mondaladi/Sentry-V1)
 - 🌱 **Learning**: **RTOS, RF communication, and front-end web development**.
 - 👨‍💻 **Side projects on Instructables**: [Check them out!](https://www.instructables.com/member/mondaladi/)
 
