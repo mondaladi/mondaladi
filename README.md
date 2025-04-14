@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/aditya-mondal2002/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/m_adi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
   <a href="https://www.instructables.com/member/mondaladi/" target="blank">
     <img align="center" src="https://static.semrush.com/power-pages/media/favicons/instructables-com-favicon-ea5ac17e.png" alt="Instructables" height="30" width="40" />
   </a>
